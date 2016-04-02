@@ -5,7 +5,8 @@
 
 
 UsefullHash.js
-ZoomMap.js
+AutoSlide.js
+
 を使うと便利に。
 
 現在スマートフォンのフリックによるスライドの実装に難航している。
