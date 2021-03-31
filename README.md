@@ -1,6 +1,6 @@
 # PanelSlider
 ページをタイル状に分割し行及び列でのスライドを可能にするJS。
-[sample]https://kuri9973.github.io/PanelSlider/sample.html
+[sample]https://rkuriyama.github.io/PanelSlider/sample.html
 
 画像やリンクをクリック、矢印キーによる遷移を実装済み
 
